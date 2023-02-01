@@ -36,8 +36,7 @@
 
                         <div class = "mb-4">
                             <label class="font-bold">Title</label>
-                            <input type = "text" name = "title" class = "block mt-1 w-full text-slate-900
-" placeholder="Input message.." required>
+                            <input type = "text" name = "title" class = "block mt-1 w-full text-black" placeholder="Input message.." required>
                         </div>
                         <div class = "mb-4">
                             <label class="font-bold">Description</label>
