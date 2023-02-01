@@ -35,11 +35,11 @@
                         <thead class="block md:table-header-group">
                             <tr class="border border-grey-500 md:border-none block md:table-row absolute -top-full md:top-auto -left-full md:left-auto  md:relative ">
                             <!-- <th class = "border-solid border-2 border-light-blue-500 p-1 bg-red-300">ID</th> -->
-                            <th class="bg-gray-600 p-2 text-white font-bold md:border md:border-grey-500 text-left block md:table-cell">Title</th>
-                            <th class="bg-gray-600 p-2 text-white font-bold md:border md:border-grey-500 text-left block md:table-cell">Description</th>
-                            <th class="bg-gray-600 p-2 text-white font-bold md:border md:border-grey-500 text-center block md:table-cell">Image</th>
+                            <th class="bg-orange-900 p-2 text-white font-bold md:border md:border-grey-500 text-left block md:table-cell">Title</th>
+                            <th class="bg-orange-900 p-2 text-white font-bold md:border md:border-grey-500 text-left block md:table-cell">Description</th>
+                            <th class="bg-orange-900 p-2 text-white font-bold md:border md:border-grey-500 text-center block md:table-cell">Image</th>
                             <!-- <th class = "border-solid border-2 border-light-blue-500 p-1 bg-red-300">Status</th> -->
-                            <th class="bg-gray-600 p-2 text-white font-bold md:border md:border-grey-500 text-center block md:table-cell">Action</th>
+                            <th class="bg-orange-900 p-2 text-white font-bold md:border md:border-grey-500 text-center block md:table-cell">Action</th>
                             </tr>
                             </thead>
                             <tbody class="block md:table-row-group">
@@ -52,7 +52,7 @@
                             <img src="{{ asset($slider->image)}}" class="h-32 w-full object-cover" alt="Slider">
                             </td>
                             <!-- <td class="p-1">{{$slider->status == '0' ? 'Visible':'Hidden' }}</td> -->
-                            <td class="p-2 md:border md:border-grey-500 text-center block md:table-cell">
+                            <td class="p-2 md:border md:border-bg-fuchsia-300 text-center block md:table-cell">
                             {{-- <a href = "{{ url('/sliders/'.$slider->id.'/edit')}}" class = "btn btn-success bg-green-500 text-white">Edit</a>
                             <a href = "{{ url('/sliders/'.$slider->id.'/delete')}}" 
                             onclick="return confirm('Are you sure you want to delete this Slider?');"

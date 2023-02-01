@@ -10,7 +10,7 @@
         <header class="masthead">
             <div class="container">
                 <div class="masthead-subheading">Welcome To Our</div>
-                <div class="masthead-heading text-uppercase">Shee Bakes Cafe & Pastries</div>
+                <div class="masthead-heading text-uppercase">Shee Bakes Cakes & Pastries</div>
                 <a class="btn btn-primary btn-xl text-uppercase" href="#portfolio">WHAT WE OFFER</a>
             </div>
         </header>
@@ -80,14 +80,14 @@
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">OUR BEST SELLER</h2>
-                    <h3 class="section-subheading text-muted">description</h3>
+                    <h3 class="section-subheading text-muted">Cakes and pastries are a staple in special occasions and offer various shapes, flavors and ingredients. Best sellers include the Korean Strawberry Donut, 8 in 1 Premium Cake, and Strawberry Shortcake, each offering unique flavor, texture, and presentation. A must-try for dessert lovers.</h3>
                 </div>
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="team-member">
                             <img class="mx-auto rounded-circle" src="assets/img/portfolio/Strawberry Donut.jpg" alt="..." />
                             <h4>Korean Strawberry Donut</h4>
-                            <p class="text-muted">Price</p>
+                            <p class="text-muted">Range Price: Php 250.00 - Php 450.00</p>
                           <!--  
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand Twitter Profile"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand Facebook Profile"><i class="fab fa-facebook-f"></i></a>
@@ -97,9 +97,9 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/2.jpg" alt="..." />
-                            <h4>Diana Petersen</h4>
-                            <p class="text-muted">Lead Marketer</p>
+                            <img class="mx-auto rounded-circle" src="assets/img/portfolio/8 in 1.png" alt="..." />
+                            <h4>8 in 1 Premium Cake</h4>
+                            <p class="text-muted">Php 1,500.00</p>
                             <!--
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen Twitter Profile"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen Facebook Profile"><i class="fab fa-facebook-f"></i></a>
@@ -111,7 +111,7 @@
                         <div class="team-member">
                             <img class="mx-auto rounded-circle" src="assets/img/portfolio/Strawberry shortcake.png" alt="..." />
                             <h4>Strawberry Shortcake</h4>
-                            <p class="text-muted">Price</p>
+                            <p class="text-muted">Php 1,750.00</p>
                             <!--
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Twitter Profile"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Facebook Profile"><i class="fab fa-facebook-f"></i></a>
@@ -121,7 +121,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-8 mx-auto text-center"><p class="large text-muted">QUOTES.</p></div>
+                    <div class="col-lg-8 mx-auto text-center"><p class="large text-muted">"Whether it's for birthdays, weddings, or just a sweet treat. Cakes and Pastries will always be a crowd-pleaser and a staple in the dessert industry."</p></div>
                 </div>
             </div>
         </section>

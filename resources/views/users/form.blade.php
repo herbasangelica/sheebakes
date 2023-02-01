@@ -17,7 +17,7 @@
                     <br>
                     @if ( session('status'))
                     <div class="bg-white text-center py-4 lg:px-4">
-                    <div class="p-2 bg-indigo-800 items-center text-indigo-100 leading-none lg:rounded-full flex lg:inline-flex" role="alert">
+                    <div class="p-2 bg-rose-800 items-center text-indigo-100 leading-none lg:rounded-full flex lg:inline-flex" role="alert">
                         
                         <span class="font-semibold mr-2 text-left flex-auto"></span> {{ session('status')}}
                     @endif

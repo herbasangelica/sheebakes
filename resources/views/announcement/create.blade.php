@@ -1,6 +1,6 @@
 <x-app-layout>
     <x-slot name="header">
-        <h2 class="font-semibold text-xl text-gray-800 dark:text-gray-200 leading-tight">
+        <h2 class="font-semibold text-xl text-gray-800 dark:text-gray-900 leading-tight">
             ADD SLIDER
         </h2>
     </x-slot>
@@ -36,7 +36,8 @@
 
                         <div class = "mb-4">
                             <label class="font-bold">Title</label>
-                            <input type = "text" name = "title" class = "block mt-1 w-full text-black" placeholder="Input message..." required>
+                            <input type = "text" name = "title" class = "block mt-1 w-full text-slate-900
+" placeholder="Input message.." required>
                         </div>
                         <div class = "mb-4">
                             <label class="font-bold">Description</label>
@@ -69,7 +70,7 @@
         @endif
 
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
-            <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-sm sm:rounded-lg">
+            <div class="bg-rose-100 dark:bg-teal-800 overflow-hidden shadow-sm sm:rounded-lg">
                 <div class="p-6 text-gray-900 dark:text-gray-100">
                     <form method="POST" action="{{ url('/sliders/create') }}" enctype = "multipart/form-data">
                         @csrf
