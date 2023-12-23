@@ -12,8 +12,8 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
                         <li class="nav-item"><a class="nav-link" href="#page-top">HOME</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#announcement">ANNOUNCEMENT</a></li>
                         <li class="nav-item"><a class="nav-link" href="#about">ABOUT</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#announcement">ANNOUNCEMENT</a></li>
                         <li class="nav-item"><a class="nav-link" href="#team">PRODUCT</a></li>
                         <li class="nav-item"><a class="nav-link" href="#contact">CONTACTS</a></li>
                         <li class="nav-item"><a class="nav-link btn btn-primary" href="{{ url('/login') }}">LOG IN</a></li>

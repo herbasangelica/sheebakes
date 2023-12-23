@@ -76,11 +76,11 @@
 
                         <div class = "mb-3">
                             <label>Title</label>
-                            <input type = "text" name = "title" class = "block mt-1 w-full">
+                            <input type = "text" name = "title" class = "block mt-1 w-full text-gray-900 dark:text-gray-900">
                         </div>
                         <div class = "mb-3">
                             <label>Description</label>
-                            <textarea name = "description" class = "block mt-1 w-full" rows = "3"></textarea>
+                            <textarea name = "description" class = "block mt-1 w-full text-gray-900 dark:text-gray-900" rows = "3"></textarea>
                         </div>
                         <div class = "mb-3">
                             <label>Image</label>

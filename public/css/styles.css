@@ -607,7 +607,7 @@ progress {
 }
 
 .img-fluid {
-  max-width: 100%;
+  max-width:100%;
   height: auto;
 }
 
@@ -11490,7 +11490,7 @@ header.masthead .masthead-heading {
 }
 #portfolio .portfolio-item .portfolio-caption {
   padding: 1.5rem;
-  text-align: center;
+  text-align: left;
   background-color: transparent;
   margin-top: 8px;
 }
@@ -11530,7 +11530,7 @@ header.masthead .masthead-heading {
   margin-bottom: 2rem;
 }
 .portfolio-modal .modal-content img {
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 .portfolio-modal .close-modal {
   position: absolute;
@@ -11886,3 +11886,6 @@ section#contact form#contactForm :-ms-input-placeholder {
           height: 400px;
       }
   }
+
+
+  
